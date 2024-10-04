@@ -73,8 +73,9 @@ example:
                 140325.worker2  (10/05/24 03:40:41)     (Detached)
                 140306.worker1  (10/05/24 03:40:41)     (Detached)
 
-Masukkan PID atau nama sesi (misal: PID.nama_sesi):
-Enter the PID or session name (e.g. PID.session_name):
+- Masukkan PID atau nama sesi (misal: PID.nama_sesi):
+
+- Enter the PID or session name (e.g. PID.session_name):
 
 input
 
